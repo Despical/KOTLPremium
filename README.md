@@ -4,8 +4,8 @@ First of all special thanks to everyone who purchased our plugin and support us.
 King of the Ladder is an old Minecraft minigame and this version is a premium version of that plugin. That premium version has so much more features than free one. In this minigame each player have to kick other players out of the ladders to be the king. The king tries to stand on the top of the ladders while not letting others to climb and punching them out of the way! If you have any problem with this plugin check out our [wiki](https://github.com/Despical/KOTLPremium/wiki). If you still didn't find a your answer see documentation section below. Also a [tutorial video](https://www.youtube.com/watch?v=O_vkf_J4OgY) is available for the plugin by SpigotFAQ.
 
 ## Documentation
-More detailed information can be found on the [wiki page](https://github.com/Despical/KOTLPremium/wiki).
-The Java documentation cannot be browsed due to privacy.<br>For questions or isseus use [issue tracker](https://github.com/Despical/KOTL/issues).
+More detailed information can be found on the [wiki](https://github.com/Despical/KOTLPremium/wiki).
+The Java documentation cannot be browsed due to privacy.<br>For questions or isseus use [issue tracker](https://github.com/Despical/KOTLPremium/issues).
 Also you can join our small [Discord community](https://www.discord.gg/rVkaGmyszE) to get support and news early.
 
 ## Translations
