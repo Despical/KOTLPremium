@@ -6,7 +6,7 @@ King of the Ladder is an old Minecraft minigame and this version is a premium ve
 ## Documentation
 More detailed information can be found on the [wiki](https://github.com/Despical/KOTLPremium/wiki).
 The Java documentation cannot be browsed due to privacy.<br>For questions or isseus use [issue tracker](https://github.com/Despical/KOTLPremium/issues).
-Also you can join our small [Discord community](https://www.discord.gg/rVkaGmyszE) to get support and news early.
+Also you can join our [Discord community](https://www.discord.gg/rVkaGmyszE) to get support and news early.
 
 ## Translations
 We are supporting multiple languages such as English, Turkish and German for now.<br>
@@ -29,14 +29,14 @@ Firstly, create a folder and put the plugin in that folder then follow the instr
     <artifactId>kotl-premium</artifactId>
     <version>${version-here}</version>
     <scope>system</scope>
-    <systemPath>${project.basedir}/libs/king-of-the-ladder-premimu-1.0.1.jar</systemPath>
+    <systemPath>${project.basedir}/libs/king-of-the-ladder-premimum-1.0.2.jar</systemPath>
 </dependency>
 ```
 
 ### Gradle dependency
 ```
 dependencies {
-    compile files('libs/king-of-the-ladder-premimu-1.0.1.jar')
+    compile files('libs/king-of-the-ladder-premimum-1.0.2.jar')
     // or include all the jars in the folder
     compile fileTree(dir: 'libs', include: '*.jar')
 }
