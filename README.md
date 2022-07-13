@@ -15,6 +15,11 @@ If you want to help us with translating take a look at our [language repository]
 ## Contributing
 We can not accept contributions via anyway because of the privacy of the code.
 
+## License
+This code is under [GPL-3.0 License](http://www.gnu.org/licenses/gpl-3.0.html)
+
+See the [LICENSE](https://github.com/Despical/KOTLPremium/blob/master/LICENSE) file for required notices and attributions.
+
 ## Using King of the Ladder API
 We do not recommend using the public API to not let anyone who didn't buy the plugin won't have access to files.<br>To access
 our API we recommend to add it as a system library with using some shading systems such as Maven or Gradle.
@@ -29,14 +34,14 @@ Firstly, create a folder and put the plugin in that folder then follow the instr
     <artifactId>kotl-premium</artifactId>
     <version>${version-here}</version>
     <scope>system</scope>
-    <systemPath>${project.basedir}/libs/king-of-the-ladder-premimum-1.0.2.jar</systemPath>
+    <systemPath>${project.basedir}/libs/king-of-the-ladder-premimum-1.0.3.jar</systemPath>
 </dependency>
 ```
 
 ### Gradle dependency
 ```
 dependencies {
-    compile files('libs/king-of-the-ladder-premimum-1.0.2.jar')
+    compile files('libs/king-of-the-ladder-premimum-1.0.3.jar')
     // or include all the jars in the folder
     compile fileTree(dir: 'libs', include: '*.jar')
 }
